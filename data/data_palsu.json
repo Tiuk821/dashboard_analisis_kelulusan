@@ -1,0 +1,110 @@
+[
+  {
+    "tahun_yudisium": 2014,
+    "jumlah_lulusan": 56,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2015,
+    "jumlah_lulusan": 170,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2016,
+    "jumlah_lulusan": 117,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2017,
+    "jumlah_lulusan": 170,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2018,
+    "jumlah_lulusan": 172,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2019,
+    "jumlah_lulusan": 422,
+    "rata_rata_ipk": 3.10,
+    "rata_rata_masa_studi": 4.2,
+    "angkatan_dominan": "2015",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2020,
+    "jumlah_lulusan": 606,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2021,
+    "jumlah_lulusan": 500,
+    "rata_rata_ipk": 3.38,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2017",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Terjadi penurunan kelulusan pada 2021. Ini kemungkinan besar disebabkan oleh tantangan adaptasi mahasiswa terhadap metode pembelajaran full online di awal masa pandemi, yang mungkin memperlambat proses pengerjaan tugas akhir."
+  },
+  {
+    "tahun_yudisium": 2022,
+    "jumlah_lulusan": 713,
+    "rata_rata_ipk": 3.45,
+    "rata_rata_masa_studi": 4.3,
+    "angkatan_dominan": "2018",
+    "metode_belajar_konteks": "Hybrid",
+    "narasi_analisis": "Jumlah kelulusan mulai pulih seiring dengan diterapkannya sistem pembelajaran hybrid. Mahasiswa mulai bisa mengakses fasilitas kampus untuk bimbingan, yang mempercepat penyelesaian studi mereka."
+  },
+  {
+    "tahun_yudisium": 2023,
+    "jumlah_lulusan": 871,
+    "rata_rata_ipk": 3.55,
+    "rata_rata_masa_studi": 4.5,
+    "angkatan_dominan": "2019",
+    "metode_belajar_konteks": "Hybrid (Pasca-Pandemi)",
+    "narasi_analisis": "Puncak kelulusan terjadi akibat akumulasi mahasiswa dari periode pandemi yang lulus bersamaan. Angkatan ini juga menunjukkan profil akademik yang sangat kuat, terbukti dari rata-rata IPK lulusan yang tertinggi dalam 5 tahun terakhir."
+  },
+  {
+    "tahun_yudisium": 2024,
+    "jumlah_lulusan": 777,
+    "rata_rata_ipk": 3.50,
+    "rata_rata_masa_studi": 5.5,
+    "angkatan_dominan": "2020",
+    "metode_belajar_konteks": "Hybrid (Pasca-Pandemi)",
+    "narasi_analisis": "Puncak kelulusan terjadi akibat akumulasi mahasiswa dari periode pandemi yang lulus bersamaan. Angkatan ini juga menunjukkan profil akademik yang sangat kuat, terbukti dari rata-rata IPK lulusan yang tertinggi dalam 5 tahun terakhir."
+  },
+  {
+    "tahun_yudisium": 2025,
+    "jumlah_lulusan": 417,
+    "rata_rata_ipk": 3.29,
+    "rata_rata_masa_studi": 4.0,
+    "angkatan_dominan": "2021",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Puncak kelulusan terjadi akibat akumulasi mahasiswa dari periode pandemi yang lulus bersamaan. Angkatan ini juga menunjukkan profil akademik yang sangat kuat, terbukti dari rata-rata IPK lulusan yang tertinggi dalam 5 tahun terakhir."
+  }
+]
