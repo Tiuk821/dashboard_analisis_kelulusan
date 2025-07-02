@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <title>Dashboard Analisis Kelulusan</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css"
+        integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js"
+        integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div class="dashboard-container">
+        <header>
+            <h1>Analisis Tren Kelulusan Mahasiswa</h1>
+        </header>
+
+        <main>
+            <div class="chart-container">
+                <canvas id="graduationChart"></canvas>
+            </div>
+
+            <div id="analysis-details" class="content-area hidden">
+                <h2 id="analysis-title"></h2>
+
+                <div class="kpi-grid">
+                    <div class="kpi-card">
+                        <h4>Jumlah Lulusan</h4>
+                        <p id="kpi-graduates">-</p>
+                    </div>
+                    <div class="kpi-card">
+                        <h4>Rata-rata IPK</h4>
+                        <p id="kpi-gpa">-</p>
+                    </div>
+                    <div class="kpi-card">
+                        <h4>Angkatan Dominan</h4>
+                        <p id="kpi-cohort">-</p>
+                    </div>
+                    <div class="kpi-card">
+                        <h4>Rata-rata Studi</h4>
+                        <p id="kpi-study-period">-</p>
+                    </div>
+                </div>
+
+                <div class="context-section">
+                    <h3>Faktor Kontekstual</h3>
+                    <p id="context-factors">-</p>
+                </div>
+
+                <div class="narrative-section">
+                    <h3>Narasi Analisis</h3>
+                    <p id="narrative-analysis">-</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

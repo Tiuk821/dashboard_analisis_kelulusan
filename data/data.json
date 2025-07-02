@@ -1,0 +1,110 @@
+[
+  {
+    "tahun_yudisium": 2014,
+    "jumlah_lulusan": 56,
+    "rata_rata_ipk": 3.359,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2010",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Pada tahun 2014, fakultas meluluskan angkatan yang menjadi tolok ukur penting, dengan kualitas akademik yang sangat solid yang dibuktikan oleh rata-rata IPK lulusan mencapai 3.359. Para lulusan ini membutuhkan waktu rata-rata 4.34 tahun untuk menyelesaikan studi mereka, di mana mayoritas berasal dari angkatan 2010, yang konsisten dengan durasi studi sekitar 4 tahun. Rata-rata masa studi yang sedikit melebihi target ideal tersebut dapat diatribusikan pada sejumlah kecil mahasiswa dari angkatan yang lebih senior yang juga lulus pada tahun yang sama. Dengan demikian, data tahun 2014 melukiskan gambaran sebuah kohort yang, meskipun membutuhkan waktu studi sedikit lebih lama, berhasil lulus dengan standar performa akademik yang tinggi dan memuaskan."
+  },
+  {
+    "tahun_yudisium": 2015,
+    "jumlah_lulusan": 170,
+    "rata_rata_ipk": 3.400,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2011",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Pada tahun 2015, fakultas menunjukkan peningkatan performa kelulusan yang signifikan, dengan meluluskan 170 mahasiswa yang memiliki kualitas akademik lebih tinggi, tercermin dari rata-rata IPK yang naik menjadi 3.400. Efisiensi waktu studi juga menunjukkan perbaikan dibandingkan tahun sebelumnya, di mana rata-rata masa studi untuk lulusan 2015 tercatat lebih cepat, yaitu selama 4.22 tahun. Analisis komposisi angkatan menegaskan bahwa kelulusan tahun ini didominasi oleh mahasiswa dari angkatan 2011, yang menunjukkan alur progresi angkatan yang sehat, meskipun masih ada kontribusi dari angkatan senior yang membuat rata-rata masa studi sedikit di atas 4 tahun. Secara keseluruhan, tahun 2015 menandai sebuah tren positif di mana fakultas berhasil meningkatkan kuantitas, kualitas (IPK), dan efisiensi (masa studi) kelulusan secara bersamaan."
+  },
+  {
+    "tahun_yudisium": 2016,
+    "jumlah_lulusan": 117,
+    "rata_rata_ipk": 3.340,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2012",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Tahun 2016 menunjukkan sedikit penurunan jumlah lulusan dibandingkan tahun sebelumnya, namun tetap menjaga kualitas akademik yang baik dengan rata-rata IPK 3.340. Efisiensi waktu studi pada tahun ini tercatat sedikit melambat, dengan rata-rata masa studi selama 4.28 tahun. Lulusan tahun 2016 didominasi oleh mahasiswa dari angkatan 2012, yang menunjukkan kelanjutan alur progresi angkatan yang normal. Penurunan jumlah lulusan dan sedikit perlambatan masa studi pada tahun ini dapat diinterpretasikan sebagai fluktuasi alami dalam siklus akademik fakultas."
+  },
+  {
+    "tahun_yudisium": 2017,
+    "jumlah_lulusan": 170,
+    "rata_rata_ipk": 3.341,
+    "rata_rata_masa_studi": 4.524,
+    "angkatan_dominan": "2013",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Kelulusan pada tahun 2017 menunjukkan sedikit peningkatan jumlah mahasiswa dibandingkan tahun sebelumnya, dengan kualitas akademik yang terjaga stabil, dibuktikan oleh rata-rata IPK 3.341. Namun, tahun ini diwarnai oleh perlambatan efisiensi waktu studi yang cukup signifikan, di mana rata-rata masa studi meningkat menjadi 4.52 tahun. Data komposisi angkatan menjelaskan fenomena ini, menunjukkan bahwa meskipun lulusan didominasi oleh angkatan 2013, terdapat kontribusi yang cukup besar dari mahasiswa angkatan senior (2012 dan sebelumnya) yang berhasil menyelesaikan studi mereka. Hal ini mengindikasikan bahwa tahun 2017 kemungkinan menjadi periode 'pembersihan' mahasiswa dari angkatan-angkatan yang lebih lama, yang berdampak pada naiknya rata-rata masa studi secara keseluruhan."
+  },
+  {
+    "tahun_yudisium": 2018,
+    "jumlah_lulusan": 172,
+    "rata_rata_ipk": 3.223,
+    "rata_rata_masa_studi": 4.517,
+    "angkatan_dominan": "2014",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Tahun 2018 menjadi periode yang menantang bagi fakultas, ditandai dengan efisiensi waktu studi yang stagnan di angka rata-rata 4.52 tahun serta adanya penurunan pada kualitas akademik lulusan, di mana rata-rata IPK tercatat pada nilai 3.223. Meskipun kelulusan pada tahun ini secara wajar didominasi oleh angkatan 2014 yang menempuh studi selama 4 tahun, tingginya rata-rata masa studi menunjukkan masih adanya kontribusi signifikan dari mahasiswa angkatan-angkatan yang lebih senior yang baru menyelesaikan studinya. Kombinasi antara masa studi yang belum membaik dan penurunan rata-rata IPK menjadikan tahun 2018 sebagai periode yang memerlukan evaluasi lebih lanjut untuk mengidentifikasi faktor-faktor penyebab penurunan performa akademik lulusan pada kohort tersebut."
+  },
+  {
+    "tahun_yudisium": 2019,
+    "jumlah_lulusan": 422,
+    "rata_rata_ipk": 3.331,
+    "rata_rata_masa_studi": 4.645,
+    "angkatan_dominan": "2015",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Tahun 2019 menandai lonjakan signifikan dalam jumlah lulusan, menunjukkan peningkatan kapasitas kelulusan fakultas, yang diiringi dengan pemulihan kualitas akademik di mana rata-rata IPK kembali ke level solid di angka 3.331. Namun, pencapaian ini diimbangi dengan tantangan efisiensi, karena rata-rata masa studi kembali meningkat menjadi 4.65 tahun, titik terlama dalam beberapa tahun terakhir. Komposisi lulusan yang didominasi oleh angkatan 2015 menunjukkan alur progresi yang normal, namun tingginya masa studi mengindikasikan bahwa 'pembersihan' mahasiswa dari angkatan-angkatan yang lebih senior masih terus menjadi faktor utama yang mempengaruhi rata-rata kelulusan secara keseluruhan. Dengan demikian, tahun 2019 dapat dilihat sebagai tahun dengan sinyal beragam: keberhasilan dalam meningkatkan kuantitas dan memulihkan kualitas lulusan, namun dengan catatan penting terkait efisiensi waktu studi yang memerlukan perhatian lebih lanjut."
+  },
+  {
+    "tahun_yudisium": 2020,
+    "jumlah_lulusan": 606,
+    "rata_rata_ipk": 3.18,
+    "rata_rata_masa_studi": 4.6,
+    "angkatan_dominan": "2016",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Tahun 2020 menjadi periode unik yang sepenuhnya berada di bawah pengaruh pandemi COVID-19, di mana proses kelulusan menunjukkan resiliensi yang kuat dengan jumlah lulusan yang tetap tinggi dan kualitas akademik yang sangat baik, tercermin dari rata-rata IPK yang mencapai 3.394. Meskipun demikian, tantangan efisiensi studi juga mencapai puncaknya pada tahun ini, dengan rata-rata masa studi tercatat selama 4.66 tahun. Dominasi lulusan dari angkatan 2016 menunjukkan progresi normal, namun durasi studi yang panjang mengindikasikan bahwa disrupsi akibat pembelajaran full online kemungkinan besar menghambat mahasiswa, terutama dari angkatan-angkatan senior, untuk menyelesaikan studi tepat waktu. Secara keseluruhan, kelulusan 2020 melukiskan gambaran sebuah fakultas yang berhasil menjaga kualitas akademik di tengah krisis, meskipun harus mengorbankan efisiensi waktu kelulusan sebagai dampaknya."
+  },
+  {
+    "tahun_yudisium": 2021,
+    "jumlah_lulusan": 500,
+    "rata_rata_ipk": 3.331,
+    "rata_rata_masa_studi": 4.712,
+    "angkatan_dominan": "2017",
+    "metode_belajar_konteks": "Full Online (Pandemi)",
+    "narasi_analisis": "Tahun 2021 menjadi periode yang tampaknya paling terdampak oleh pandemi, ditandai dengan penurunan pada jumlah lulusan serta sedikit penurunan kualitas akademik dengan rata-rata IPK berada di angka 3.331. Tantangan efisiensi studi juga semakin terasa, di mana rata-rata masa studi mencapai titik terlama yaitu 4.71 tahun, menegaskan adanya hambatan signifikan dalam proses penyelesaian tugas akhir selama periode pembelajaran full online. Meskipun kelulusan pada tahun ini didominasi oleh angkatan 2017 yang mengikuti alur progresi normal 4 tahun, data secara keseluruhan menunjukkan bahwa dampak kumulatif dari krisis kesehatan global memberikan tekanan berat pada kemampuan mahasiswa untuk lulus tepat waktu dan dengan performa akademik puncak seperti tahun sebelumnya."
+  },
+  {
+    "tahun_yudisium": 2022,
+    "jumlah_lulusan": 713,
+    "rata_rata_ipk": 3.320,
+    "rata_rata_masa_studi": 4.985,
+    "angkatan_dominan": "2018",
+    "metode_belajar_konteks": "Hybrid",
+    "narasi_analisis": "Tahun 2022 menandai periode 'pemulihan kuantitas' pasca-pandemi dengan lonjakan signifikan pada jumlah lulusan, seiring dengan dimulainya sistem pembelajaran hybrid. Namun, pemulihan ini datang dengan konsekuensi pada efisiensi, di mana rata-rata masa studi mencapai titik puncak yang mengkhawatirkan, yaitu 4.99 tahun. Data komposisi angkatan menjelaskan fenomena ini secara jelas: selain lulusan dari angkatan 2018 yang menempuh jalur normal 4 tahun, terdapat gelombang besar kelulusan dari mahasiswa angkatan 2017 yang tertunda. Kualitas akademik lulusan pada periode ini mengalami sedikit penurunan dengan rata-rata IPK 3.320, mengindikasikan bahwa tahun ini menjadi momen kelulusan bagi banyak mahasiswa yang kemungkinan menghadapi tantangan akademik terbesar selama masa transisi pandemi."
+  },
+  {
+    "tahun_yudisium": 2023,
+    "jumlah_lulusan": 871,
+    "rata_rata_ipk": 3.770,
+    "rata_rata_masa_studi": 5.149,
+    "angkatan_dominan": "2019",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Tahun 2023 menjadi puncak historis kelulusan fakultas dengan jumlah mahasiswa lulus mencapai titik tertinggi dalam dekade terakhir. Fenomena ini secara luar biasa diiringi oleh pencapaian kualitas akademik yang istimewa, dengan rata-rata IPK meroket ke angka 3.770. Namun, pencapaian gemilang ini berjalan seiring dengan rata-rata masa studi yang juga mencapai rekor terlama, yaitu 5.15 tahun, bertepatan dengan kembalinya sistem perkuliahan menjadi full offline. Data komposisi menjelaskan bahwa puncak ini terbentuk dari gelombang besar lulusan angkatan 2019 yang menempuh studi 4 tahun, yang datang bersamaan dengan 'panen raya' dari mahasiswa angkatan-angkatan senior (2018, 2017, dan sebelumnya) yang akhirnya menyelesaikan studi setelah terhambat periode pandemi. Kombinasi antara masa studi terlama dengan IPK tertinggi ini melukiskan kisah sebuah generasi lulusan yang sangat resilien: mereka mungkin membutuhkan waktu ekstra untuk melewati berbagai rintangan, namun mereka memanfaatkannya untuk mencapai hasil akademik yang sangat memuaskan."
+  },
+  {
+    "tahun_yudisium": 2024,
+    "jumlah_lulusan": 777,
+    "rata_rata_ipk": 3.597,
+    "rata_rata_masa_studi": 4.362,
+    "angkatan_dominan": "2020",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Tahun 2024 menandai kembalinya fakultas ke 'ritme normal' pasca-pandemi, dengan jumlah kelulusan yang tetap sangat tinggi dan diiringi pencapaian akademik yang kuat, tercermin dari rata-rata IPK yang berada di level 3.597. Pencapaian paling signifikan pada tahun ini adalah kembalinya efisiensi waktu studi, di mana rata-rata masa studi membaik secara drastis menjadi 4.36 tahun, kembali mendekati standar ideal setelah periode lonjakan sebelumnya. Data komposisi menjelaskan fenomena ini, menunjukkan bahwa kelulusan kini didominasi secara sehat oleh angkatan 2020 (menempuh studi 4 tahun), yang mengindikasikan bahwa 'tumpukan' mahasiswa dari angkatan yang lebih senior akibat pandemi telah berhasil diselesaikan pada tahun 2023. Dengan demikian, 2024 menjadi bukti keberhasilan fakultas dalam menormalisasi alur kelulusan sambil mempertahankan standar kualitas yang tinggi di era perkuliahan full offline."
+  },
+  {
+    "tahun_yudisium": 2025,
+    "jumlah_lulusan": 417,
+    "rata_rata_ipk": 3.659,
+    "rata_rata_masa_studi": 4.372,
+    "angkatan_dominan": "2021",
+    "metode_belajar_konteks": "Full Offline",
+    "narasi_analisis": "Meskipun jumlah lulusan pada tahun 2025 mengalami normalisasi atau penurunan setelah periode puncak pasca-pandemi, tahun ini justru menjadi tolok ukur baru untuk kualitas dan efisiensi. Kualitas akademik lulusan berada pada tingkat yang sangat impresif dengan rata-rata IPK mencapai 3.659. Pada saat yang sama, efisiensi waktu studi berhasil dipertahankan dengan sangat baik, tercatat pada rata-rata 4.37 tahun, yang mengkonfirmasi bahwa alur kelulusan fakultas telah kembali stabil. Komposisi lulusan yang didominasi secara sehat oleh angkatan 2021 menunjukkan bahwa siklus 4 tahun telah menjadi norma yang mapan. Dengan demikian, tahun 2025 dapat disimpulkan sebagai era 'normal baru' yang optimal bagi fakultas, di mana fokusnya adalah keberhasilan menghasilkan lulusan berkualitas tinggi secara konsisten dan tepat waktu."
+  }
+]
